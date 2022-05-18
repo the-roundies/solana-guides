@@ -1,0 +1,30 @@
+{
+  "name": "Your Collection Name",
+  "symbol": "YOURSYMBOL",
+  "description": "Your descriptions.",
+  "seller_fee_basis_points": 999,
+  "external_url": "https://your-url.tld",
+  "image": "0.png",
+  "properties": {
+    "creators": [
+      {
+        "address": "CREATOR01ADDRESS",
+        "share": 50
+      },
+      {
+        "address": "CREATOR02ADDRESS",
+        "share": 50
+      },
+    ],
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      },
+    ]
+  },
+  "collection": {
+    "name": "Your Collection Name",
+    "family": "Your Collection Family"
+  }
+}
